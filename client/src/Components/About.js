@@ -1,7 +1,7 @@
 const About = () => {
   return (
     <div>
-      Your name123
+      Your name1234567
       <br />
       Your ID
     </div>
